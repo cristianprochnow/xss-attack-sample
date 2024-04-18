@@ -1,0 +1,6 @@
+.comment td {
+    display: flex;
+    flex-direction: column;
+    gap: .8rem;
+    padding: .8rem 0;
+}
